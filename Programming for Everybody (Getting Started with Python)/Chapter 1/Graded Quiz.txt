@@ -1,0 +1,36 @@
+
+Chapter 1 Graded Quiz Solution
+
+1. When Python is running in the interactive mode and displaying the chevron prompt (>>>) - what question is Python asking you?
+Ans. What would you like to do 
+
+2. What will the following program print out:
+     >>> x = 15
+     >>> x = x + 5
+     >>> print(x)
+Ans. 20
+
+3. Python scripts (files) have names that end with:
+Ans. .py
+
+4.Which of these words are reserved words in Python ?
+Ans. Select the one which is in this list{False	,await,else	,import,pass,None,break,except,in,raise,True,class,finally,is,return,and,continue,for,lambda,try,as,def,from,nonlocal,while,assert,del,global,not,with,async,elif	,if	,or,yield}
+//The above question can be of asking which of them is not a reserved word then you should be selecting the one which is not in above list
+
+5.What is the proper way to say “good-bye” to Python?
+Ans.quit() 
+
+6.Which of the parts of a computer actually executes the program instructions?
+Ans. Central Processing Unit(CPU)
+
+7.What is "code" in the context of this course?
+Ans. A sequence of instructions in programming language
+
+8.A USB memory stick is an example of which of the following components of computer architecture?
+Ans. Secondary memory
+
+9.What is the best way to think about a "Syntax Error" while programming?
+Ans.The computer didn't understand the statement that you entered
+
+10.Which of the following is not one of the programming patterns covered in Chapter 1?
+Ans.Random steps
